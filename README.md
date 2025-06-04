@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YounesBKL
+- 👋 Hi, I’m @Younes
 - 👀 I work in Data Science and love Machine learning and AI 
 - 💞️ I’m looking to collaborate on Data Science projects 
 - 📫 How to reach me  younes.boukellal@gmail.com
